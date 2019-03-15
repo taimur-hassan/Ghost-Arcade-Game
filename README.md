@@ -1,4 +1,4 @@
-# Ghost-game
+# Ghost-Arcade-Game
 
 ![alt text](https://i.imgur.com/Y6vrhaY.jpg)
 
