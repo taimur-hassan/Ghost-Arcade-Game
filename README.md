@@ -1,4 +1,4 @@
-# Ghost-game 👻
+# Ghost-game
 
 ![alt text](https://i.imgur.com/Y6vrhaY.jpg)
 
