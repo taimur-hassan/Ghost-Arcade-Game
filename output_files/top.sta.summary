@@ -1,0 +1,261 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -5.926
+TNS   : -760.986
+
+Type  : Slow 1100mV 85C Model Setup 'control:c0|current_state.RAND_SPIRIT'
+Slack : -4.185
+TNS   : -28.277
+
+Type  : Slow 1100mV 85C Model Setup 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : -2.624
+TNS   : -133.902
+
+Type  : Slow 1100mV 85C Model Setup 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : -2.390
+TNS   : -13.162
+
+Type  : Slow 1100mV 85C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 33.711
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.252
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.328
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : 0.865
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'control:c0|current_state.RAND_SPIRIT'
+Slack : 3.024
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : -0.506
+TNS   : -6.731
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : -0.394
+TNS   : -39.629
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.RAND_SPIRIT'
+Slack : -0.394
+TNS   : -3.809
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.813
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.757
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -5.501
+TNS   : -660.923
+
+Type  : Slow 1100mV 0C Model Setup 'control:c0|current_state.RAND_SPIRIT'
+Slack : -4.366
+TNS   : -29.441
+
+Type  : Slow 1100mV 0C Model Setup 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : -2.673
+TNS   : -128.922
+
+Type  : Slow 1100mV 0C Model Setup 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : -2.317
+TNS   : -13.242
+
+Type  : Slow 1100mV 0C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 33.834
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.304
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.388
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : 0.871
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'control:c0|current_state.RAND_SPIRIT'
+Slack : 3.183
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : -0.530
+TNS   : -6.892
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : -0.394
+TNS   : -39.279
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.RAND_SPIRIT'
+Slack : -0.394
+TNS   : -3.746
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.768
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.739
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -4.480
+TNS   : -565.450
+
+Type  : Fast 1100mV 85C Model Setup 'control:c0|current_state.RAND_SPIRIT'
+Slack : -2.114
+TNS   : -14.114
+
+Type  : Fast 1100mV 85C Model Setup 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : -1.174
+TNS   : -5.310
+
+Type  : Fast 1100mV 85C Model Setup 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.146
+TNS   : -57.650
+
+Type  : Fast 1100mV 85C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 35.913
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.132
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.248
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'control:c0|current_state.RAND_SPIRIT'
+Slack : 1.575
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : -0.197
+TNS   : -1.178
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : -0.023
+TNS   : -0.389
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'control:c0|current_state.RAND_SPIRIT'
+Slack : 0.065
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.813
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.879
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -3.674
+TNS   : -433.665
+
+Type  : Fast 1100mV 0C Model Setup 'control:c0|current_state.RAND_SPIRIT'
+Slack : -2.114
+TNS   : -14.105
+
+Type  : Fast 1100mV 0C Model Setup 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : -1.044
+TNS   : -49.304
+
+Type  : Fast 1100mV 0C Model Setup 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : -0.996
+TNS   : -4.510
+
+Type  : Fast 1100mV 0C Model Setup 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 36.334
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.103
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.236
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'control:c0|current_state.RAND_SPIRIT'
+Slack : 1.587
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'datapath:d0|rate_divider:u4Hz2|count[0]'
+Slack : -0.157
+TNS   : -0.921
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'DE1_SoC_Audio_Example:a0|avconf:avc|mI2C_CTRL_CLK'
+Slack : 0.010
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'control:c0|current_state.RAND_SPIRIT'
+Slack : 0.090
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : 8.808
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'VGA|mypll|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.880
+TNS   : 0.000
+
+------------------------------------------------------------
